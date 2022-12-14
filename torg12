@@ -1,0 +1,10 @@
+<div class="row m-0" style="padding: 8px 0;border-bottom: 1px solid #f1f1f1 !important;">
+                        <div class="col-12">
+<!--                            <span class="print_links"><a href="/orders/torg12/11104" target="_blank">torg12 <i class="icon-share-alt icons"></i></a></span>
+                            <span class="print_links"><a href="/orders/torg12/11104?ooo=true" target="_blank">(ooo) <i class="icon-share-alt icons"></i></a></span>
+                            <span class="print_links"><a href="/orders/torg12/11104?anton=true" target="_blank">(Sol) <i class="icon-share-alt icons"></i></a></span>-->
+                            <h6>Торг 12</h6>
+                            <div>
+                                <button class="btn btn-sm btn-danger" @click="openTorg12('/orders/torg12/11104', '14483')">Конфигурация</button>
+                            </div>
+                        </div>
